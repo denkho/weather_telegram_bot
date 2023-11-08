@@ -1,0 +1,4 @@
+requests == 2.31
+python-decouple == 3.8
+pyTelegramBotAPI == 4.14
+schedule == 1.2.1

@@ -1,0 +1,23 @@
+{"now": 1699214318, "now_dt": "2023-11-05T19:58:38.942227Z", 
+"info": {"url": "https://yandex.ru/pogoda/193?lat=51.673622&lon=39.254372", "lat": 51.673622, "lon": 39.254372}, 
+"fact": {"obs_time": 1699214318, "temp": 11, "feels_like": 8, 
+            "icon": "ovc", "condition": "overcast", "wind_speed": 4.5, 
+            "wind_dir": "s", "pressure_mm": 743, "pressure_pa": 990, 
+            "humidity": 86, "daytime": "n", "polar": false, 
+            "season": "autumn", "wind_gust": 11}, 
+"forecast": {
+    "date": "2023-11-06", "date_ts": 1699218000, "week": 45, 
+    "sunrise": "07:24", "sunset": "16:48", "moon_code": 4, "moon_text": "moon-code-4", 
+    "parts": [
+        {
+            "part_name": "night", "temp_min": 11, "temp_avg": 12, 
+            "temp_max": 12, "wind_speed": 4.8, "wind_gust": 11, 
+            "wind_dir": "s", "pressure_mm": 743, "pressure_pa": 990, "humidity": 90, 
+            "prec_mm": 0, "prec_prob": 0, "prec_period": 480, "icon": "ovc", 
+            "condition": "overcast", "feels_like": 9, "daytime": "n", "polar": false
+        }, 
+        {
+            "part_name": "morning", "temp_min": 11, "temp_avg": 12, "temp_max": 12, 
+            "wind_speed": 4.6, "wind_gust": 11.8, "wind_dir": "se", "pressure_mm": 743, 
+            "pressure_pa": 990, "humidity": 93, "prec_mm": 2.1, "prec_prob": 20, 
+            "prec_period": 360, "icon": "ovc_ra", "condition": "rain", "feels_like": 9, "daytime": "d", "polar": false}]}}
